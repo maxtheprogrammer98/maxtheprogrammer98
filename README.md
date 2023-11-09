@@ -1,7 +1,8 @@
 ## <img width="36" height="36" src="https://img.icons8.com/external-beshi-flat-kerismaker/36/external-Developer-coding-and-programing-beshi-flat-kerismaker.png" alt="external-Developer-coding-and-programing-beshi-flat-kerismaker"/> Desarrollador
 
 ### <img width="20" height="20" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> información:
-Estudio programación de forma autodidacta y además me encuentro cursando la carrera de "desarrollo web y aplicaciones digitales" en el [ISPC](https://www.ispc.edu.ar)
+Estudio programación de forma autodidacta y además me encuentro cursando la carrera de "desarrollo web y aplicaciones digitales" en el [ISPC](https://www.ispc.edu.ar).
+
 Mi principal especialidad es el *desarrollo mobil*.
 
 ### <img width="20" height="20" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> Stacks / tecnologias:
