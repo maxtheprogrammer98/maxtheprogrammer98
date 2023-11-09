@@ -1,9 +1,9 @@
 ## <img width="36" height="36" src="https://img.icons8.com/external-beshi-flat-kerismaker/36/external-Developer-coding-and-programing-beshi-flat-kerismaker.png" alt="external-Developer-coding-and-programing-beshi-flat-kerismaker"/> Desarrollador
 
 ### <img width="20" height="20" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> información:
-<img width="18" height="18" src="https://img.icons8.com/color/48/books.png" alt="books"/> Estudio programación de forma autodidacta y además me encuentro cursando la carrera de "desarrollo web y aplicaciones digitales" en el [ISPC](https://www.ispc.edu.ar).
+- <img width="18" height="18" src="https://img.icons8.com/color/48/books.png" alt="books"/> Estudio programación de forma autodidacta y además me encuentro cursando la carrera de "desarrollo web y aplicaciones digitales" en el [ISPC](https://www.ispc.edu.ar).
 
-<img width="18" height="18" src="https://img.icons8.com/fluency/48/android.png" alt="android"/> Mi principal especialidad es el *desarrollo mobil*.
+- <img width="18" height="18" src="https://img.icons8.com/fluency/48/android.png" alt="android"/> Mi principal especialidad es el *desarrollo mobil*.
 
 ### <img width="20" height="20" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> Lenguajes / Tecnologias / Frameworks:
 Estos son los lenguajes de programación / tecnologias en los que me puedo desenmpeñar, adicionalmente también se utilizar programas de diseño grafico como CorelDraw, PS, AI y herramientas similares a Figma.
