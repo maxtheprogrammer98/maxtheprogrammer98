@@ -7,15 +7,18 @@ Mi principal especialidad es el *desarrollo mobil*.
 
 ### <img width="20" height="20" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> Lenguajes / Tecnologias / Frameworks:
 Estos son los lenguajes de programación / tecnologias en los que me puedo desenmpeñar, adicionalmente también se utilizar programas de diseño grafico como CorelDraw, PS, AI y herramientas similares a Figma.
-- HTML / SCSS / JS
-- TypeScript
-- Angular
-- Python / Django
-- Java
-- Kotlin
-- FireBase
+- <img width="16" height="16" src="https://img.icons8.com/color/48/geography--v1.png" alt="geography--v1"/> HTML / SCSS / JS
+- <img width="16" height="16" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/> TypeScript
+- <img width="16" height="16" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo"/> Angular
+- <img width="16" height="16" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> Python / Django
+- <img width="16" height="16" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> Java
+- <img width="14" height="14" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png" alt="external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo"/> Kotlin
+- <img width="16" height="16" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/> FireBase
 
 ### <img width="20" height="20" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> Idiomas:
 - <img width="18" height="18" src="https://img.icons8.com/color/18/spain2-circular.png" alt="spain2-circular"/> Castellano (Nativo)
 - <img width="18" height="18" src="https://img.icons8.com/fluency/48/great-britain-circular.png" alt="great-britain-circular"/> Inglés (Avanzado)
 - <img width="18" height="18" src="https://img.icons8.com/color/48/germany-circular.png" alt="germany-circular"/> Alemán (Basico)
+
+### Contacto:
+- <img width="18" height="18" src="https://img.icons8.com/office/16/new-post.png" alt="new-post"/> mnnastrai24@gmail.com
