@@ -8,6 +8,7 @@ Mi principal especialidad es el *desarrollo mobil*.
 ### <img width="20" height="20" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> Stacks / tecnologias:
 - HTML / SCSS / JS
 - TypeScript
+- Angular
 - Python / Django
 - Java
 - Kotlin
