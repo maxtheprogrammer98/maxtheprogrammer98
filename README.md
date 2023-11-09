@@ -20,5 +20,5 @@ Estos son los lenguajes de programación / tecnologias en los que me puedo desen
 - <img width="18" height="18" src="https://img.icons8.com/fluency/48/great-britain-circular.png" alt="great-britain-circular"/> Inglés (Avanzado)
 - <img width="18" height="18" src="https://img.icons8.com/color/48/germany-circular.png" alt="germany-circular"/> Alemán (Basico)
 
-### Contacto:
+### <img width="20" height="20" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> Contacto:
 - <img width="18" height="18" src="https://img.icons8.com/office/16/new-post.png" alt="new-post"/> mnnastrai24@gmail.com
