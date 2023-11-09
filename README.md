@@ -5,7 +5,8 @@ Estudio programación de forma autodidacta y además me encuentro cursando la ca
 
 Mi principal especialidad es el *desarrollo mobil*.
 
-### <img width="20" height="20" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> Stacks / tecnologias:
+### <img width="20" height="20" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> Lenguajes / tecnologias:
+Estos son los lenguajes de programación en los que me puedo desenmpeñar.
 - HTML / SCSS / JS
 - TypeScript
 - Angular
