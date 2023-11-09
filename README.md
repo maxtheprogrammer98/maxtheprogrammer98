@@ -5,7 +5,7 @@ Estudio programación de forma autodidacta y además me encuentro cursando la ca
 
 Mi principal especialidad es el *desarrollo mobil*.
 
-### <img width="20" height="20" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> Lenguajes / tecnologias:
+### <img width="20" height="20" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> Lenguajes / Tecnologias / Frameworks:
 Estos son los lenguajes de programación / tecnologias en los que me puedo desenmpeñar, adicionalmente también se utilizar programas de diseño grafico como CorelDraw, PS, AI y herramientas similares a Figma.
 - HTML / SCSS / JS
 - TypeScript
