@@ -6,7 +6,7 @@
 - <img width="18" height="18" src="https://img.icons8.com/fluency/48/android.png" alt="android"/> Mi principal especialidad es el **Desarrollo Mobil**.
 
 ### <img width="20" height="20" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> Lenguajes / Tecnologias / Frameworks:
-Estos son los lenguajes de programación / tecnologias en los que me puedo desenmpeñar, adicionalmente también se utilizar programas de diseño grafico como CorelDraw, PS, AI y herramientas similares a Figma.
+Estos son los lenguajes de programación / tecnologias en los que me puedo desenpeñar, adicionalmente también se utilizar programas de diseño grafico como CorelDraw, PS, AI y herramientas similares a Figma.
 - <img width="16" height="16" src="https://img.icons8.com/color/48/geography--v1.png" alt="geography--v1"/> *HTML / SCSS / JS*
 - <img width="16" height="16" src="https://img.icons8.com/3d-fluency/94/wordpress.png" alt="wordpress"/> WordPress
 - <img width="16" height="16" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/> *TypeScript*
