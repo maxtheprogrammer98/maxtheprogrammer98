@@ -1,4 +1,4 @@
-## <img width="36" height="36" src="https://img.icons8.com/external-beshi-flat-kerismaker/36/external-Developer-coding-and-programing-beshi-flat-kerismaker.png" alt="external-Developer-coding-and-programing-beshi-flat-kerismaker"/> Desarrollador
+## <img width="36" height="36" src="https://img.icons8.com/external-beshi-flat-kerismaker/36/external-Developer-coding-and-programing-beshi-flat-kerismaker.png" alt="external-Developer-coding-and-programing-beshi-flat-kerismaker"/> Desarrollador Movil y Web
 
 <img src="https://3.bp.blogspot.com/-VK7SWENlAgw/XzqwX8KkKCI/AAAAAAAAPgA/9ELJaDt6PwovSP4K6nLYt6FHOi0mtF0fwCLcBGAsYHQ/s1600/0_MmLuzoPIQi4nVdrR.png"/>
 
