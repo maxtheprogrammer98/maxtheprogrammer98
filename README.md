@@ -3,9 +3,10 @@
 <img src="https://3.bp.blogspot.com/-VK7SWENlAgw/XzqwX8KkKCI/AAAAAAAAPgA/9ELJaDt6PwovSP4K6nLYt6FHOi0mtF0fwCLcBGAsYHQ/s1600/0_MmLuzoPIQi4nVdrR.png"/>
 
 ### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins>información:</ins> <br>
-<img width="25" height="25" src="https://img.icons8.com/color/48/books.png" alt="books"/> Estudio programación de forma autodidacta y además me encuentro cursando la carrera de *"Desarrollo Web y Aplicaciones Digitales"* en el [ISPC](https://www.ispc.edu.ar). <br>
+<img width="25" height="25" src="https://img.icons8.com/color/48/books.png" alt="books"/> Estudio programación de forma autodidacta y además me encuentro cursando la carrera de *"Desarrollo Web y Aplicaciones Digitales"* en el [ISPC](https://www.ispc.edu.ar).
+ Me encanta el mundo de la programación y mejorar mis habilidades técnicas realizado proyectos como los que puedes encontrar en mi perfil, considero que la practica es el factor clave para aprender nuevas técnologias.
 
-<img width="25" height="25" src="https://img.icons8.com/fluency/48/android.png" alt="android"/> Mi principal especialidad es el **Desarrollo Mobil**.
+<img width="25" height="25" src="https://img.icons8.com/fluency/48/android.png" alt="android"/> Mi principal especialidad es el **Desarrollo Mobil (Android / Kotlin)**.
 
 <hr>
 
