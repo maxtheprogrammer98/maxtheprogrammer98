@@ -6,7 +6,7 @@
 <img width="25" height="25" src="https://img.icons8.com/color/48/books.png" alt="books"/> Estudio programación de forma autodidacta y además me encuentro cursando la carrera de *"Desarrollo Web y Aplicaciones Digitales"* en el [ISPC](https://www.ispc.edu.ar).
  Me encanta el mundo de la programación y mejorar mis habilidades técnicas realizado proyectos como los que puedes encontrar en mi perfil, considero que la practica es el factor clave para aprender nuevas técnologias.
  
-<img width="20" height="20" src="https://img.icons8.com/fluency/48/source-code.png" alt="source-code"/> Actualmente estoy trabajando en una app movil de tutoriales realistas llamada [***ArtMaster***](https://github.com/maxtheprogrammer98/ArtMaster)
+<img width="20" height="20" src="https://img.icons8.com/fluency/48/source-code.png" alt="source-code"/> Actualmente estoy trabajando en una app movil de tutoriales de arte realistas llamada [***ArtMaster***](https://github.com/maxtheprogrammer98/ArtMaster)
 
 <img width="25" height="25" src="https://img.icons8.com/fluency/48/android.png" alt="android"/> Mi principal especialidad es el **Desarrollo Mobile (Android / Kotlin)**.
 
