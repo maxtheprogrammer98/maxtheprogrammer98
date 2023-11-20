@@ -12,18 +12,20 @@
 
 ### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins> Habilidades técnicas </ins>:
 Estos son los lenguajes de programación / tecnologias en los que me puedo desenpeñar, adicionalmente también se utilizar programas de diseño grafico como CorelDraw, PS, AI y herramientas similares a Figma.
+
+Para ver la información técnica de cada tecnologia haz click en su logo.
 <br><br>
-<img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="40" height="40" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-<img width="40" height="40" src="https://img.icons8.com/color/100/sass.png" alt="sass"/>
-<img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-<img width="40" height="40" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/>
-<img width="40" height="40" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
-<img width="40" height="40" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-<img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/wordpress.png" alt="wordpress"/>
-<img width="40" height="40" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-<img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png" alt="external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo"/>
-<img width="40" height="40" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
+[<img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>](https://en.wikipedia.org/wiki/HTML)
+[<img width="40" height="40" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>](https://en.wikipedia.org/wiki/CSS)
+[<img width="40" height="40" src="https://img.icons8.com/color/100/sass.png" alt="sass"/>](https://en.wikipedia.org/wiki/Sass_(style_sheet_language))
+[<img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>](https://en.wikipedia.org/wiki/JavaScript)
+[<img width="40" height="40" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/>](https://en.wikipedia.org/wiki/TypeScript)
+[<img width="40" height="40" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>](https://es.wikipedia.org/wiki/Angular_(framework))
+[<img width="40" height="40" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>](https://en.wikipedia.org/wiki/Python_(programming_language))
+[<img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/wordpress.png" alt="wordpress"/>](https://en.wikipedia.org/wiki/WordPress)
+[<img width="40" height="40" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>](https://en.wikipedia.org/wiki/Java_(programming_language))
+[<img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png" alt="external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo"/>](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
+[<img width="40" height="40" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>](https://en.wikipedia.org/wiki/Firebase#:~:text=Firebase%2C%20Inc.%20is%20a%20set,%2C%20PHP%2C%20and%20C%2B%2B.)
 <hr>
 
 ### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins> Idiomas </ins>:
