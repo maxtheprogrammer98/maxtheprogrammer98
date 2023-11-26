@@ -33,9 +33,9 @@ Para ver la información técnica de cada tecnologia haz click en su logo.
 <hr>
 
 ### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins> Idiomas </ins>:
-<img width="20" height="20" src="https://img.icons8.com/color/18/spain2-circular.png" alt="spain2-circular"/> *Castellano (Nativo)* <br>
-<img width="20" height="20" src="https://img.icons8.com/fluency/48/great-britain-circular.png" alt="great-britain-circular"/> *Inglés (Avanzado)* <br>
-<img width="20" height="20" src="https://img.icons8.com/color/48/germany-circular.png" alt="germany-circular"/> *Alemán (Basico)* <br>
+<img width="30" height="30" src="https://img.icons8.com/color/48/argentina-circular.png" alt="argentina-circular"/> *Castellano (Nativo)* <br>
+<img width="30" height="30" src="https://img.icons8.com/fluency/48/great-britain-circular.png" alt="great-britain-circular"/> *Inglés (Avanzado)* <br>
+<img width="30" height="30" src="https://img.icons8.com/color/48/germany-circular.png" alt="germany-circular"/> *Alemán (Basico)* <br>
 <hr>
 
 ### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins> Contacto: </ins> <br>
