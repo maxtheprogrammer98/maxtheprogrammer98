@@ -27,6 +27,7 @@ Para ver la información técnica de cada tecnologia haz click en su logo.
 [<img width="40" height="40" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>](https://en.wikipedia.org/wiki/Java_(programming_language))
 [<img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png" alt="external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo"/>](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
 [<img width="40" height="40" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>](https://en.wikipedia.org/wiki/Firebase#:~:text=Firebase%2C%20Inc.%20is%20a%20set,%2C%20PHP%2C%20and%20C%2B%2B.)
+[<img width="40" height="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish"/>](https://en.wikipedia.org/wiki/SQL)
 [<img width="38" height="38" src="https://github.com/maxtheprogrammer98/maxtheprogrammer98/assets/72700320/ed8541c8-b5a7-4c3a-8144-4bc26e4a309f"/>](https://penpot.app)
 [<img width="40" height="40" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>](https://en.wikipedia.org/wiki/Adobe_Photoshop)
 
