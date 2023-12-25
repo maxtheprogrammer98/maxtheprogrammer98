@@ -8,8 +8,6 @@
  
 <img width="20" height="20" src="https://img.icons8.com/fluency/48/source-code.png" alt="source-code"/> Actualmente estoy trabajando en una app movil llamada [***ArtMaster***](https://github.com/maxtheprogrammer98/ArtMaster) la cual ofrece una amplia gama de tutoriales de arte realista, ideal para aquellos quienes buscan adentrarse en este campo del dibujo.
 
-<img width="25" height="25" src="https://img.icons8.com/fluency/48/android.png" alt="android"/> Mi principal especialidad es el **Desarrollo Mobile (Android / Kotlin)**.
-
 <hr>
 
 ### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins> Habilidades técnicas </ins>:
