@@ -46,6 +46,6 @@ Para ver la información técnica de cada tecnologia haz click en su logo.
 
 ![maxtheprogrammer98's Stats](https://github-readme-stats.vercel.app/api?username=maxtheprogrammer98&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 
-![maxtheprogrammer98's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxtheprogrammer98&theme=prussian&hide_border=true)
+<!--- ![maxtheprogrammer98's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxtheprogrammer98&theme=prussian&hide_border=true)
 
-![maxtheprogrammer98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxtheprogrammer98&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+![maxtheprogrammer98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxtheprogrammer98&theme=prussian&show_icons=true&hide_border=true&layout=compact) --->
