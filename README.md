@@ -1,6 +1,7 @@
 ## <img width="36" height="36" src="https://img.icons8.com/external-beshi-flat-kerismaker/36/external-Developer-coding-and-programing-beshi-flat-kerismaker.png" alt="external-Developer-coding-and-programing-beshi-flat-kerismaker"/> Mobile & Web Developer
 
-<img src="https://blogger.googleusercontent.com/img/a/AVvXsEiEIiQOoFF-f-sDcbYOMINZw5-2R9aQjrREfiXFMGsRYODVfaz1sgdCS2C3UjgeJjCII5oyE4y97kbvQIUsl9wIx8RqTSZPSdIoCywW89lvmAJ5a15bkFOwoR9UacCEUb4CjOMy0omVMfC0CQhUfz9VMTZR4iyjDGagEZfNuMid8BT0lvarns9Tp6PC"/>
+![wallpaperGH](https://github.com/maxtheprogrammer98/maxtheprogrammer98/assets/72700320/1d16b966-fce5-455f-83ec-9496a73b8848)
+
 
 ### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins>información:</ins> <br>
 <img width="25" height="25" src="https://img.icons8.com/color/48/books.png" alt="books"/> Estudio programación de forma autodidacta y además me encuentro cursando la carrera de *"Desarrollo Web y Aplicaciones Digitales"* en el [ISPC](https://www.ispc.edu.ar).
