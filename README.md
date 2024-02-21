@@ -1,6 +1,6 @@
 ## <img width="36" height="36" src="https://img.icons8.com/external-beshi-flat-kerismaker/36/external-Developer-coding-and-programing-beshi-flat-kerismaker.png" alt="external-Developer-coding-and-programing-beshi-flat-kerismaker"/> Mobile & Web Developer
 
-![wallpaperGH](https://github.com/maxtheprogrammer98/maxtheprogrammer98/assets/72700320/1d16b966-fce5-455f-83ec-9496a73b8848)
+![wallpaperGH](https://github.com/maxtheprogrammer98/maxtheprogrammer98/assets/72700320/e4cece5d-510c-4acd-b2d8-80abcc295fe3)
 
 
 ### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins>información:</ins> <br>
