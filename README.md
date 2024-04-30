@@ -4,9 +4,8 @@
 
 
 ### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins>Information:</ins> <br>
-<img width="25" height="25" src="https://img.icons8.com/color/48/books.png" alt="books"/> I'm a self-taught developer specialized mainly in mobile development, currently I'm also studying _"Development of Digital Applications"_ at the [ISPC](https://www.ispc.edu.ar). In my github profile you will be able to find different projects I've worked on.
- 
-<img width="20" height="20" src="https://img.icons8.com/fluency/48/source-code.png" alt="source-code"/> I'm currently working on an Android app for an advertisement company which has different functionalities like storing records and also a AI assistant based on Gemini.
+I'm a self-taught programmer specialized mainly in mobile development, currently I'm also studying _"Development of Digital Applications"_ at the [ISPC](https://www.ispc.edu.ar). In my github profile you will be able to find different projects I've worked on. <br>
+I'm currently working on an Android app for an advertisement company which has different functionalities like storing records and also a AI assistant based on Gemini.
 
 <hr>
 
