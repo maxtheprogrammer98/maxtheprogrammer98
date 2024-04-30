@@ -3,19 +3,17 @@
 ![nueva_portada](https://github.com/maxtheprogrammer98/maxtheprogrammer98/assets/72700320/0f1f7093-0705-4b57-870d-9fd9c4060f05)
 
 
-### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins>información:</ins> <br>
-<img width="25" height="25" src="https://img.icons8.com/color/48/books.png" alt="books"/> Estudio programación de forma autodidacta y además me encuentro cursando la carrera de *"Desarrollo Web y Aplicaciones Digitales"* en el [ISPC](https://www.ispc.edu.ar).
- Me encanta el mundo de la programación y mejorar mis habilidades técnicas realizado proyectos como los que puedes encontrar en mi perfil, considero que la practica es el factor clave para aprender nuevas técnologias.
+### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins>Information:</ins> <br>
+<img width="25" height="25" src="https://img.icons8.com/color/48/books.png" alt="books"/> I'm a self-taught developer specialized mainly in mobile development, currently I'm also studying _"Development of Digital Applications"_ at the [ISPC](https://www.ispc.edu.ar). In my github profile you will be able to find different projects I've worked on.
  
-<img width="20" height="20" src="https://img.icons8.com/fluency/48/source-code.png" alt="source-code"/> Actualmente estoy trabajando en una app android para una empresa de carteleria / publicidad que permite mantener un control mas eficaz de sus archivos y registros de forma digital.
+<img width="20" height="20" src="https://img.icons8.com/fluency/48/source-code.png" alt="source-code"/> I'm currently working on an Android app for an advertisement company which has different functionalities like storing records and also a AI assistant based on Gemini.
 
 <hr>
 
-### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins> Habilidades técnicas </ins>:
-
-Para ver la información técnica de cada tecnologia haz click en su logo.
+### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins> Stack / technologies </ins>:
+Click on the icon for further information
 <br><br>
-| Campo | Lenguajes / frameworks / herramientras |
+| Field | Languages / Frameworks / technologies |
 | -------- | -------- |
 | Web | [<img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>](https://en.wikipedia.org/wiki/HTML)[<img width="40" height="40" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>](https://en.wikipedia.org/wiki/CSS) [<img width="40" height="40" src="https://img.icons8.com/color/100/sass.png" alt="sass"/>](https://en.wikipedia.org/wiki/Sass_(style_sheet_language)) [<img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>](https://en.wikipedia.org/wiki/JavaScript) [<img width="40" height="40" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/>](https://en.wikipedia.org/wiki/TypeScript) [<img width="40" height="40" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>](https://es.wikipedia.org/wiki/Angular_(framework)) [<img width="40" height="40" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>](https://en.wikipedia.org/wiki/Python_(programming_language)) [<img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/wordpress.png" alt="wordpress"/>](https://en.wikipedia.org/wiki/WordPress) [<img width="40" height="40" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>](https://en.wikipedia.org/wiki/Firebase#:~:text=Firebase%2C%20Inc.%20is%20a%20set,%2C%20PHP%2C%20and%20C%2B%2B.) [<img width="40" height="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish"/>](https://en.wikipedia.org/wiki/SQL)|
 | Mobile | [<img width="40" height="40" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>](https://en.wikipedia.org/wiki/Java_(programming_language)) [<img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png" alt="external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo"/>](https://en.wikipedia.org/wiki/Kotlin_(programming_language)) [<img width="40" height="40" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" />](https://developer.android.com/jetpack/compose?hl=es-419) [<img width="40" height="40" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>](https://en.wikipedia.org/wiki/Firebase#:~:text=Firebase%2C%20Inc.%20is%20a%20set,%2C%20PHP%2C%20and%20C%2B%2B.) [<img width="40" height="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish"/>](https://en.wikipedia.org/wiki/SQL) |
@@ -23,18 +21,18 @@ Para ver la información técnica de cada tecnologia haz click en su logo.
 
 <hr>
 
-### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins> Idiomas </ins>:
-<img width="30" height="30" src="https://img.icons8.com/color/48/argentina-circular.png" alt="argentina-circular"/> *Castellano (Nativo)* <br>
-<img width="30" height="30" src="https://img.icons8.com/fluency/48/great-britain-circular.png" alt="great-britain-circular"/> *Inglés (Avanzado)* <br>
-<img width="30" height="30" src="https://img.icons8.com/color/48/germany-circular.png" alt="germany-circular"/> *Alemán (Basico)* <br>
+### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins> Languages </ins>:
+<img width="30" height="30" src="https://img.icons8.com/color/48/argentina-circular.png" alt="argentina-circular"/> *Spanish (Native)* <br>
+<img width="30" height="30" src="https://img.icons8.com/fluency/48/great-britain-circular.png" alt="great-britain-circular"/> *English (Proficient)* <br>
+<img width="30" height="30" src="https://img.icons8.com/color/48/germany-circular.png" alt="germany-circular"/> *German (Basic)* <br>
 <hr>
 
-### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins> Contacto: </ins> <br>
+### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins> Contact: </ins> <br>
 <img width="18" height="18" src="https://img.icons8.com/office/16/new-post.png" alt="new-post"/> mnnastrai24@gmail.com
 
 <hr>
 
-### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins> Estadisticas </ins>: <br>
+### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins> Stats </ins>: <br>
 
 ![maxtheprogrammer98's Stats](https://github-readme-stats.vercel.app/api?username=maxtheprogrammer98&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 
