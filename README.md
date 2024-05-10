@@ -1,7 +1,7 @@
+
 ## <img width="36" height="36" src="https://img.icons8.com/external-beshi-flat-kerismaker/36/external-Developer-coding-and-programing-beshi-flat-kerismaker.png" alt="external-Developer-coding-and-programing-beshi-flat-kerismaker"/> Mobile & Web Developer
 
-![nueva_portada](https://github.com/maxtheprogrammer98/maxtheprogrammer98/assets/72700320/0f1f7093-0705-4b57-870d-9fd9c4060f05)
-
+![front-page-gh](https://github.com/maxtheprogrammer98/maxtheprogrammer98/assets/72700320/1fad673d-6109-43f4-889c-334be9331128)
 
 ### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins>Information:</ins> <br>
 I'm a self-taught programmer specialized in mobile development, currently I'm also studying _"Development of Digital Applications"_ at the [ISPC](https://www.ispc.edu.ar) (technical institute). If you want to check out my work, here in my github profile you will find different projects I've worked on. <br>
@@ -38,3 +38,5 @@ Click on the icon for further information
 ![maxtheprogrammer98's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxtheprogrammer98&theme=prussian&hide_border=true)
 
 ![maxtheprogrammer98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxtheprogrammer98&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+
+
