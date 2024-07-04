@@ -2,8 +2,9 @@
 ## <img width="36" height="36" src="https://img.icons8.com/external-beshi-flat-kerismaker/36/external-Developer-coding-and-programing-beshi-flat-kerismaker.png" alt="external-Developer-coding-and-programing-beshi-flat-kerismaker"/> Mobile & Web Developer
 
 ### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins>Information:</ins> <br>
-I'm a self-taught programmer specialized in mobile development, currently I'm also studying _"Development of Digital Applications"_ at the [ISPC](https://www.ispc.edu.ar) (technical institute). If you want to check out my work, here in my github profile you will find different projects I've worked on. <br>
-I'm currently working on an social media app for artists, which will enable artists to share their work in an enviorement where art is actually promoted unlike other major platforms.
+I'm a programmer specialized in mobile development, here in my github profile you will find different projects I've worked on.  <br>
+Currently, I'm programming a social media app for artists, which will enable artists to share their work in an enviorement where art is actually promoted unlike other major platforms. <br>
+You can click [here](https://maxtheprogrammer98.github.io) to see my portfolio and certifications. <br>
 <hr>
 
 ### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins> Stack / technologies </ins>:
