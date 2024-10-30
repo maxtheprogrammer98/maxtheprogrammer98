@@ -4,7 +4,7 @@
 ### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins>Information:</ins> <br>
 I'm a programmer specialized in mobile and web development, here in my github profile you will find different projects I've worked on.  <br>
 Currently, I'm programming a social media app for artists, which will enable artists to share their work in an environment where art is actually promoted unlike other major platforms. <br>
-You can click [here](https://maxtheprogrammer98.github.io) to see my portfolio and certifications. <br>
+You can click [here](https://maxtheprogrammer98.github.io) to have a look at my portfolio and certifications. <br>
 <hr>
 
 ### <img width="25" height="25" src="https://img.icons8.com/fluency/30/info.png" alt="info"/> <ins> Stack / technologies </ins>:
